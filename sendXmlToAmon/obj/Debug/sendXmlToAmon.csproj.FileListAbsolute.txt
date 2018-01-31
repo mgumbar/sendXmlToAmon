@@ -1,0 +1,6 @@
+C:\Users\gumbarm\developments\sendXmlToAmon\sendXmlToAmon\bin\Debug\sendXmlToAmon.exe.config
+C:\Users\gumbarm\developments\sendXmlToAmon\sendXmlToAmon\bin\Debug\sendXmlToAmon.exe
+C:\Users\gumbarm\developments\sendXmlToAmon\sendXmlToAmon\bin\Debug\sendXmlToAmon.pdb
+C:\Users\gumbarm\developments\sendXmlToAmon\sendXmlToAmon\obj\Debug\sendXmlToAmon.csprojResolveAssemblyReference.cache
+C:\Users\gumbarm\developments\sendXmlToAmon\sendXmlToAmon\obj\Debug\sendXmlToAmon.exe
+C:\Users\gumbarm\developments\sendXmlToAmon\sendXmlToAmon\obj\Debug\sendXmlToAmon.pdb
